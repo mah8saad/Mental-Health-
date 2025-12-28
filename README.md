@@ -36,6 +36,10 @@ Data is generated to closely resemble data collected from modern wearable device
 
 ## 🛠 Tech Stack
 
+<p align="center">
+  <img src="tools.png" width="1000">
+</p>
+
 | Layer | Technology |
 |-----|-----------|
 | Data Source | CSV Files |
