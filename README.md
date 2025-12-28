@@ -146,5 +146,7 @@ Dashboards are interactive and designed for analytical insights.
 👨‍💻 Author
 Mahmoud [saad]
 📧 Email: [mahmoud010196@gmail.com]
+
 💼 LinkedIn: https://www.linkedin.com/in/mahmoud-saad-8540b63a0/
+
 🐙 GitHub: https://github.com/mah8saad
