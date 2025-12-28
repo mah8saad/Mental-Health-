@@ -1,4 +1,7 @@
 # Wearables Health Data Engineering Project
+<p align="center">
+  <img src="icooons.webp" width="800">
+</p>
 
 An end-to-end **Data Engineering pipeline** for processing and analyzing wearable health data generated from smart devices such as smartwatches and fitness trackers.
 
